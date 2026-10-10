@@ -232,3 +232,4 @@ images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/ren
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/sora_image.jpg
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/sora_delegation.jpg
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/sora_description.jpg
+images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/sora_discernment.jpg
