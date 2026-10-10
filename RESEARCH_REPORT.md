@@ -224,3 +224,9 @@ AIへ明確な指示を与えるために、
 images/discernment.png
 
 生成結果の裏取りや検証の重要性を説明している。
+
+images/ren_image.jpg
+
+images/sora_image.jpg
+
+images/navy_image.jpg
