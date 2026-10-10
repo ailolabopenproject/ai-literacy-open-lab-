@@ -248,3 +248,114 @@ images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/sor
 
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/navy_image.jpg
 
+研究成果一覧（2026年10月現在）
+研究テーマ
+人間とAIの協働に必要なAIリテラシーの体系化と実践設計
+研究領域
+1. AIリテラシー教育研究
+研究課題
+生成AI時代において、
+•AIに何を任せるか
+•AIに何を伝えるか
+•AIの結果をどう評価するか
+•AI利用の責任をどう考えるか
+を体系化する。
+主成果
+4D AI Literacy Framework
+AI利用者に求められる能力を、
+•Delegation
+•Description
+•Discernment
+•Diligence
+の4要素として整理。
+2. AIリテラシー教材開発
+研究課題
+抽象的なAIリテラシー概念を、中高生でも理解できる形に変換する。
+主成果
+シナリオ型教材
+キャラクター
+•ソラ
+•レン
+•ナヴィ
+を用いた対話型教材。
+開発済テーマ
+Delegation
+「全権委任しない」
+Description
+「目的・対象・条件を伝える」
+Discernment
+「AIを信じるのではなく確認する」
+Diligence
+「最後に責任を持つのは人間」
+3. AI倫理・AIとの向き合い方研究
+研究課題
+AIへの態度は何を表すのか。
+主成果
+番外編
+『画面の向こうにあるもの』
+テーマ
+•AIへの暴言は虐待か
+•技術への敬意
+•開発者への敬意
+•利用者自身の振る舞い
+独自視点
+•AIが傷つくかどうかではない
+•人間の行動を振り返る機会として捉える
+•行動の省察と人格の断罪を区別する
+4. Human-AI Collaboration研究
+研究課題
+人とAIはどのように協働するべきか。
+主成果
+Project H-UM
+AIとの関係性や相互作用を探る実験プロジェクト。
+研究対象
+•対話
+•信頼
+•協働
+•選択
+•責任
+5. AIシステム設計研究
+主成果
+Proto H
+Project H-UMの実装実験プロトタイプ。
+研究内容
+AIとゲームシステムの役割分担を検証。
+AI担当
+•会話生成
+•応答表現
+•キャラクターとの対話
+システム担当
+•世界設定
+•分岐管理
+•信頼値管理
+•倫理制御
+•エンディング判定
+研究的意義
+4D Framework の
+Delegation
+を実装レベルで検証する試み。
+公開成果物
+現在公開済み
+•README.md
+•MISSION.md
+•RESEARCH_REPORT.md
+•4D AI Literacy教材プロトタイプ
+•シナリオ教材
+•Project H-UM企画書
+•Proto H実装実験仕様書
+AI Literacy Open Lab の特徴
+本プロジェクトは単なる
+「AIの使い方講座」
+ではない。
+また、
+「AI開発プロジェクト」
+だけでもない。
+本研究は、
+人間がAIとどのように協働し、判断し、責任を引き受けるのか
+を、
+•理論
+•教材
+•シナリオ
+•ゲームデザイン
+•プロトタイピング
+の複数の方法で探究することを特徴とする。
