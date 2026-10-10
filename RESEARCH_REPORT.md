@@ -11,6 +11,22 @@ Projects
 ├─ Scenario-Based AI Literacy Education
 ├─ Project H-UM
 └─ Proto H
+Project H-UM 構想
+
+↓
+ヒューボット第一話（初期Web実装）
+
+↓
+Proto H（実装実験ver.1〜1.5.2）
+
+↓
+Proto H2 実装実験仕様書
+
+↓
+4D AI Literacy Framework
+
+↓
+AI Literacy Open Lab
 
 ├─ README.md
 ├─ MISSION.md
