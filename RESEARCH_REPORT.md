@@ -27,6 +27,18 @@ Projects
 │
 └─ resources/
 
+Current Projects
+
+• 4D AI Literacy Framework
+  AIリテラシー教育フレームワークの研究
+
+• Scenario-Based AI Literacy Learning
+  シナリオ型教材の開発
+
+• Project H-UM / Proto H
+  AIと人間の関係性を探る対話型実験プロジェクト
+
+
 研究開発報告書 Ver.1.0
 AI Literacy Open Lab
 概要
