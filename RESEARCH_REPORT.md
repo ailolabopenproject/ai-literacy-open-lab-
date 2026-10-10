@@ -1,5 +1,17 @@
 cai-literacy-open-lab/
 
+AI Literacy Open Lab
+
+├─ README.md
+├─ MISSION.md
+├─ RESEARCH_REPORT.md
+
+Projects
+├─ 4D AI Literacy Framework
+├─ Scenario-Based AI Literacy Education
+├─ Project H-UM
+└─ Proto H
+
 ├─ README.md
 ├─ MISSION.md
 
@@ -235,3 +247,4 @@ images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/sor
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/sora_discernment.jpg
 
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/navy_image.jpg
+
