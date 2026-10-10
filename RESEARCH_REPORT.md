@@ -228,4 +228,5 @@ images/discernment.png
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/ren_image.jpg
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/ren_talking.jpg
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/ren_talking2.jpg
-images/navy
+
+images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/sora_image.jpg
