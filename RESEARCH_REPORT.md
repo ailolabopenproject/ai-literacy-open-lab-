@@ -226,7 +226,5 @@ images/discernment.png
 生成結果の裏取りや検証の重要性を説明している。
 
 images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/ren_talking.jpg
-
-images/sora_image.jpg
-
+images/https://github.com/ailolabopenproject/ai-literacy-open-lab-/blob/main/ren_talking2.jpg
 images/navy_image.jpg
