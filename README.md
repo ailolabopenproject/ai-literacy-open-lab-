@@ -218,6 +218,9 @@ How should AI outputs be evaluated and verified?
 How can users maintain responsibility,
 transparency, and accountability?
 
+images/navy.png
+images/ren.png
+
 ---
 
 ## Decision and Reflection Cycle
