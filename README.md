@@ -1,4 +1,4 @@
-# AI Literacy Open Lab
+## AI Literacy Open Lab
 
 An independent initiative dedicated to exploring, advancing, and sharing AI literacy for everyone.
 
@@ -218,7 +218,7 @@ How should AI outputs be evaluated and verified?
 How can users maintain responsibility,
 transparency, and accountability?
 
-##Prototype for Teaching Materials Ver.1.1　
+### Prototype for Teaching Materials Ver.1.1　
 images/navy.png
 images/ren.png
 images/sora.png
