@@ -255,3 +255,5 @@ develop responsible and explainable AI practices.
 - AI Literacy Educational Materials
 - Project H-UM
 - Proto H
+
+images/navy.png
