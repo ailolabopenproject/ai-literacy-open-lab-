@@ -170,3 +170,82 @@ AIと協働する際の
 の循環的プロセスを理解することである可能性が示唆された。
 4D Frameworkは、
 AI時代における実践的リテラシーを体系化する一つの試みとして位置付けられる。
+
+# AI Literacy Open Lab
+
+An independent initiative exploring AI literacy,
+human-AI collaboration, and responsible AI use.
+
+---
+
+## Research Focus
+
+AI Literacy Open Lab explores how people can
+work effectively and responsibly with AI systems.
+
+Current areas of research include:
+
+- 4D AI Literacy Framework
+- Human-AI Collaboration
+- Scenario-Based Learning
+- AI Fluency and AI Literacy Education
+- Ethical AI Use and Reflection
+
+---
+
+## 4D AI Literacy Framework
+
+The framework is organized around four dimensions:
+
+### Delegation
+What should be delegated to AI,
+and what should remain human responsibility?
+
+### Description
+How can goals, conditions, and context
+be communicated clearly to AI?
+
+### Discernment
+How should AI outputs be evaluated and verified?
+
+### Diligence
+How can users maintain responsibility,
+transparency, and accountability?
+
+---
+
+## Decision and Reflection Cycle
+
+The framework is supported by two complementary flows.
+
+### Forward Flow
+
+Before using AI:
+
+1. Clarify objectives
+2. Determine appropriate delegation
+3. Design effective prompts
+4. Consider transparency and ethical impacts
+5. Execute AI-assisted tasks
+
+### Reflection Flow
+
+After using AI:
+
+1. Review outcomes
+2. Evaluate delegated decisions
+3. Verify information and assumptions
+4. Reflect on accountability
+5. Improve future decision-making
+
+Together, these processes help users
+develop responsible and explainable AI practices.
+
+---
+
+## Current Projects
+
+- 4D AI Literacy Framework
+- AI Literacy Educational Materials
+- Project H-UM
+- Proto H
