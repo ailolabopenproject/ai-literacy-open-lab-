@@ -224,7 +224,7 @@ images/sora.png
 images/ren.screenmodel.png
 images/ren.screenmodel3.png
 images/sora.delegation.png
-
+images/sora.description.png
 
 
 
