@@ -12,6 +12,12 @@ This project has just started.
 
 The first goal is to build a practical and open knowledge base for AI literacy.
 
+## Framework
+
+Read more about the framework:
+
+➡ FRAMEWORK.md
+
 関連研究プロジェクト
 Project H-UM
 人間とAIの関係性を物語体験として探究するプロジェクト。
