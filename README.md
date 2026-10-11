@@ -218,6 +218,7 @@ How should AI outputs be evaluated and verified?
 How can users maintain responsibility,
 transparency, and accountability?
 
+##Prototype for Teaching Materials Ver.1.1　
 images/navy.png
 images/ren.png
 images/sora.png
@@ -226,7 +227,6 @@ images/ren.screenmodel3.png
 images/sora.delegation.png
 images/sora.description.png
 images/sora.discernment.png
-
 
 ---
 
