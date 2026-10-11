@@ -8,4 +8,4 @@ images/sora.discernment.png
 images/sora.description.png
 images/sora.delegation.png
 
-https://photos.app.goo.gl/ShfLtpphmxryUdSX9
+
