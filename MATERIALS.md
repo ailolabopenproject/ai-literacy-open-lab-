@@ -1,4 +1,5 @@
-images/ren.png
+<p align="center">
+画像/ren.png
   
 画像/sora.png
   
@@ -11,3 +12,4 @@ images/ren.png
 画像/ren.screenmodel.png
   
 画像/ren.screenmodel3.png
+</p>
