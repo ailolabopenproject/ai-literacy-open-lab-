@@ -1,6 +1,8 @@
 #Teaching Material Ver.1.1
 
 <div align="center">
+
+<img src="images/navy.png" alt="navyの画像">
   
 <img src="images/ren.png" alt="renの画像">
 
