@@ -220,7 +220,7 @@ transparency, and accountability?
 
 ### Prototype for Teaching Materials Ver.1.1
 
-2026年10月初旬現在、第一話・第二話・第四話がVer.1.1として形になっており、
+2026年10月初旬現在、第一話・第二話・第四話がVer.1.1として実用試験段階にあり、
 残る第三話と付属の『私達の意識編』が製作進行中である。
 
 ---
