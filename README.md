@@ -220,21 +220,8 @@ transparency, and accountability?
 
 ### Prototype for Teaching Materials Ver.1.1
 
-images/navy.png
-
-images/ren.png
-
-images/sora.png
-
-images/ren.screenmodel.png
-
-images/ren.screenmodel3.png
-
-images/sora.delegation.png
-
-images/sora.description.png
-
-images/sora.discernment.png
+2026年10月初旬現在、第一話・第二話・第四話がVer.1.1として形になっており、
+残る第三話と付属の『私達の意識編』が製作進行中である。
 
 ---
 
