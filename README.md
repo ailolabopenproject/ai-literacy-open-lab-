@@ -258,6 +258,10 @@ Together, these processes help users
 develop responsible and explainable AI practices.
 
 ---
+Why 4D?
+
+AI can assist decision-making,
+but responsibility remains human.
 
 ## Current Projects
 
