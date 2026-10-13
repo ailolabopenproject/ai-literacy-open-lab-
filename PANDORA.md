@@ -38,3 +38,18 @@ else:
       print(f'【移動】 {filename} -> {sub_dir} へ')
 
   print('ファイルの整理が完了しました！')
+
+import os
+import shutil
+from google.colab import drive
+
+import qrcode
+
+# QRコードにしたい文字やURL
+url = "https://www.google.com"
+
+# QRコードの作成と保存
+img = qrcode.make(url)
+img.save("my_qr.png")
+print("QRコードを作りました！")
+
