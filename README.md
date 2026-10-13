@@ -224,7 +224,6 @@ transparency, and accountability?
 残る第三話と付属の『私達の意識編』が製作進行中である。
 
 詳細はこちら
-➡MATERIALS.md
 <div class="a-➡MATERIALS.md"><a href="MATERIALS.md">➡MATERIALS.md</a></div>
 
 
