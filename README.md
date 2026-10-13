@@ -227,8 +227,6 @@ transparency, and accountability?
 <div class="a-➡MATERIALS.md"><a href="MATERIALS.md">➡MATERIALS.md</a></div>
 
 
----
-
 ## Decision and Reflection Cycle
 
 The framework is supported by two complementary flows.
