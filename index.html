@@ -7,6 +7,7 @@
   <meta name="description" content="AI Literacy Open Lab — すべての人々のためのAIリテラシーの探求、発展、共有に専念する独立したイニシアチブ。">
   <title>AI Literacy Open Lab — 人とAIの未来をひらく</title>
   <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
 </head>
 <body>
   <div class="ambient ambient-one" aria-hidden="true"></div>
@@ -120,11 +121,31 @@
         <h2>考え方と資料を、<br><em>オープンに。</em></h2>
         <p class="jp-copy">フレームワークの詳細については、プロジェクトの資料をご覧ください。</p>
         <p class="en-copy">Explore the project's framework and documentation.</p>
-        <a class="document-link" href="FRAMEWORK.md">
-          <span class="document-symbol">↗</span>
-          <span><strong>FRAMEWORK.md</strong><small>フレームワーク / Project framework</small></span>
-          <span class="document-arrow">→</span>
-        </a>
+        <div class="resource-search" id="resource-search">
+          <label for="resource-query">資料を検索する <span>SEARCH THE KNOWLEDGE BASE</span></label>
+          <div class="search-control">
+            <span aria-hidden="true">⌕</span>
+            <input id="resource-query" type="search" placeholder="例：framework、H-UM、AIリテラシー" autocomplete="off">
+            <button id="resource-clear" type="button" aria-label="検索をクリア">×</button>
+          </div>
+          <p class="search-help">資料名や説明に含まれるキーワードで検索できます。</p>
+          <p class="search-count" id="search-count" aria-live="polite">資料 2 件</p>
+          <div class="resource-list" id="resource-list">
+            <a class="resource-card" href="FRAMEWORK.md" data-search="framework フレームワーク project framework 枠組み 資料 ai literacy">
+              <span class="resource-type">DOCUMENT / 01</span>
+              <strong>FRAMEWORK.md</strong>
+              <span>フレームワーク / Project framework</span>
+              <span class="resource-open">資料を開く ↗</span>
+            </a>
+            <a class="resource-card" href="README.md" data-search="readme プロジェクト概要 ai literacy open lab h-um ヒューボット proto h proto h2 概要">
+              <span class="resource-type">PROJECT NOTES / 02</span>
+              <strong>README.md</strong>
+              <span>プロジェクト概要・関連プロジェクトの説明</span>
+              <span class="resource-open">概要を開く ↗</span>
+            </a>
+          </div>
+          <p class="no-results" id="no-results" hidden>一致する資料が見つかりませんでした。別のキーワードをお試しください。</p>
+        </div>
         <div class="related-project">
           <div class="related-heading"><span class="mini-line"></span> RELATED RESEARCH PROJECT</div>
           <h3>Project H-UM</h3>
