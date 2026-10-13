@@ -225,6 +225,7 @@ transparency, and accountability?
 
 詳細はこちら
 ➡MATERIALS.md
+<div class="a-➡MATERIALS.md"><a href="MATERIALS.md">
 
 ---
 
