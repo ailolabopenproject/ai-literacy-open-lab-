@@ -1,3 +1,4 @@
+Python
 <!doctype html>
 <html lang="ja">
 <head>
@@ -173,4 +174,4 @@
     <div class="footer-bottom"><span>© AI Literacy Open Lab</span><a href="#top">BACK TO TOP ↑</a></div>
   </footer>
 </body>
-</html>
+</py>
