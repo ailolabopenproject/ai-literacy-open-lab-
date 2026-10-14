@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap');
+Python
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap'.py);
 
 :root {
   color-scheme: dark;
@@ -143,3 +144,4 @@ h2 { font-size: clamp(29px, 4vw, 44px); line-height: 1.55; letter-spacing: -.04e
   .feature-grid { grid-template-columns: 1fr; }.feature-card { display: grid; grid-template-columns: 90px 1fr; column-gap: 12px; }
   .feature-card .card-index { grid-column: 1 / -1; }.feature-card .card-icon { grid-row: span 2; }
 }
+</py>
