@@ -53,3 +53,10 @@ img = qrcode.make(url)
 img.save("my_qr.png")
 print("QRコードを作りました！")
 
+# 簡易電卓アプリ
+print("足し算をします")
+a = int(input("数字を1つ入れてね: "))
+b = int(input("もう1つの数字を入れてね: "))
+print(f"結果は {a + b} です！")
+
+
