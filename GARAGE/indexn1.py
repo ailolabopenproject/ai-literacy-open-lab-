@@ -1,12 +1,16 @@
 Python
-<!doctype html>
-<html lang="ja">
+<!doctype py>
+<Python lang="ja">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#070b1c">
-  <meta name="description" content="AI Literacy Open Lab — すべての人々のためのAIリテラシーの探求、発展、共有に専念する独立したイニシアチブ。">
-  <title>AI Literacy Open Lab — 人とAIの未来をひらく</title>
+  
+  <meta name="description" content="AILO-Lab
+An Independent AI Literacy Research Project
+   — 4D Framework
+〜すべての人々のためのAIリテラシーの探求、発展、共有に専念する独立したイニシアチブ。">
+  <title>AILO-Lab An IndependentAI Literacy Research Project— 人とAIのあいだに、ひらかれた知の場を</title>
   <link rel="stylesheet" href="style.css">
   <script src="script.js" defer></script>
 </head>
@@ -14,9 +18,10 @@ Python
   <div class="ambient ambient-one" aria-hidden="true"></div>
   <div class="ambient ambient-two" aria-hidden="true"></div>
   <header class="site-header">
-    <a class="brand" href="#top" aria-label="AI Literacy Open Lab home">
+    <a class="brand" href="#top" aria-label="AILO-Lab home">
       <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
-      <span>AI LITERACY <b>OPEN LAB</b></span>
+      <span>4D Framework
+   <b>OPEN LAB</b></span>
     </a>
     <nav aria-label="メインナビゲーション">
       <a href="#mission">理念 <span>MISSION</span></a>
