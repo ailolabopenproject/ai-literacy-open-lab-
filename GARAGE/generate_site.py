@@ -151,14 +151,14 @@ footer { padding: 48px 0 60px; text-align: center; color: var(--muted); font-siz
 """
 
 # ====== HTML ======
-def build_html() -> str:
+def build_py() -> str:
     status = "\n".join(f"        <p>{s}</p>" for s in SITE["status"])
     timeline = "\n".join(
         f"          <li><strong>{t}</strong><small>{d}</small></li>" for t, d in HUM["timeline"]
     )
     tags = "\n".join(f'          <span class="tag">{t}</span>' for t in HUM["themes"])
-    return f"""<!DOCTYPE html>
-<html lang="ja" translate="no">
+    return f"""<!DOCTYPE py>
+<py lang="ja" translate="no">
 <head>
   <meta charset="utf-8">
   <meta name="google" content="notranslate">
@@ -247,7 +247,7 @@ def build_html() -> str:
     <div class="wrap">© AI Literacy Open Lab — Open knowledge for everyone.</div>
   </footer>
 </body>
-</html>
+</py>
 """
 
 
