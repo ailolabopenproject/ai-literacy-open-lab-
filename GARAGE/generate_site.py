@@ -9,7 +9,7 @@ from pathlib import Path
 
 # ====== 編集しやすい設定 ======
 SITE = {
-    "title": "AI Literacy Open Lab",
+    "title": "AILO-Lab by 4DFRAMEWORK",
     "tagline": "An independent initiative dedicated to exploring, advancing, and sharing AI literacy for everyone.",
     "mission": "To make AI literacy accessible, practical, and human-centered.",
     "status": [
@@ -260,3 +260,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    </py>
